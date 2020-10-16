@@ -1,2 +1,0 @@
-# SoundCloud
-Music finder app
